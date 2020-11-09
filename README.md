@@ -16,7 +16,7 @@
 
 ### Connect with me:
 [<img width="50px" src="https://www.vectorico.com/download/social_media/youtube-dark-square.png"/>][youtube]&nbsp;&nbsp;
-[<img width="50px" src="https://assets.stickpng.com/images/5ecec78673e4440004f09e77.png"/>][instagram]&nbsp;&nbsp;
+[<img width="50px" src="https://img.pngio.com/instagram-icon-new-black-background-vector-logo-free-vector-instagram-black-logo-800_800.png"/>][instagram]&nbsp;&nbsp;
 [<img width="50px" src="https://www.flaticon.com/svg/static/icons/svg/38/38669.svg"/>][linkedin]
 
 ### I Currently work in:
