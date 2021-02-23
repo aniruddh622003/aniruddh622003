@@ -7,7 +7,7 @@
 
 
 
-- 🎊 I'm currently working on a [sorting algorithm visualiser][visualiser].
+- 🎊 I'm just finished up with a [Sudoku Solver visualiser][visualiser].
 - 🎇 New to posting code on the open-source. I wish to get better at it with time.
 - 😁 Open to new ideas, contact me and we can collaborate to something very good.
 - 👨‍🎓 2020 Goals: I want to know all of basic sorting and pathfinding algorithms, so stay tuned.
@@ -39,7 +39,7 @@
 
 
 
-[visualiser]:https://github.com/aniruddh622003/JS-Visual-Sorting
+[visualiser]: https://github.com/aniruddh622003/Sudoku-Solver-Python
 [youtube]: https://www.youtube.com/c/AniruddhUpadhyay2003
 [instagram]: https://www.instagram.com/dieharddroid/
 [linkedin]: https://www.linkedin.com/in/aniruddh-upadhyay-978786197/
