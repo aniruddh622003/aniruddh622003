@@ -5,12 +5,13 @@
 
 ### I'm a Student, Developer and Curious of New Ideas
 
+I am currently pursuing B.Tech. CSE Hons. with Sepcialisation in Artificial Intelligence and Machine Learning. My areas of interest include:
+- Web Developement 
+- Data analysis and visualisation
+- Machine Learning
+- Computer Vision
 
-
-- 🎊 I'm just finished up with a [Sudoku Solver visualiser][visualiser].
-- 🎇 New to posting code on the open-source. I wish to get better at it with time.
-- 😁 Open to new ideas, contact me and we can collaborate to something very good.
-- 👨‍🎓 2020 Goals: I want to know all of basic sorting and pathfinding algorithms, so stay tuned.
+I have worked on many projects (my github profile will also relfect the same) and am always curiously looking out for novel problems to solve. My interest lies in the problems close to real-life, where use of AI can make out lives hassle-free and easy. My future plans are to explore more about computer vision and its techniques. I am also into research work for CV tasks.
 
 
 
@@ -39,7 +40,6 @@
 
 
 
-[visualiser]: https://github.com/aniruddh622003/Sudoku-Solver-Python
 [youtube]: https://www.youtube.com/c/AniruddhUpadhyay2003
 [instagram]: https://www.instagram.com/dieharddroid/
 [linkedin]: https://www.linkedin.com/in/aniruddh-upadhyay-978786197/
